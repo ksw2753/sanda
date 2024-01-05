@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px){ /*모바일 화면 맞춤, 최대 600px까지 */
+    .cf img{
+        width: 100%;
+    }
+    .news {
+        width: 100vw;
+        height: auto;
+    }
+    .news img {
+        width: 100%;
+    }
+    .sub-word {
+        width: 100vw;
+        height: auto;
+    }
+}
